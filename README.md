@@ -1,6 +1,6 @@
 # AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild
 
-[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://openreview.net/forum?id=88RKxlFUNY)
+[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://iclr.cc/virtual/2026/poster/10011229)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://xiaolousun.github.io/AutoFly/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2602.09657)
 [![Code](https://img.shields.io/badge/Code-Staged%20Release-orange)](#release-plan)
@@ -88,7 +88,7 @@ AutoFly/
 | `assert` | Paper figures, framework diagrams, demo videos, qualitative results, and project-page assets. |
 | `train` | Dataset preprocessing, pseudo-depth generation, depth-vision-language alignment, VLA fine-tuning, and training configs. |
 | `val` | Simulation evaluation, real-world validation, metric calculation, and benchmark reproduction scripts. |
-| [`acceleration`](https://github.com/<YOUR_ORG>/<ACCELERATION_REPO>) | External acceleration and deployment repository. Replace this placeholder with the final GitHub link. |
+| `acceleration` | External acceleration and deployment repository. Replace this placeholder with the final GitHub link. |
 
 ## Dataset
 
