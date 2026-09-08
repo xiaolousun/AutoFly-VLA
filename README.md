@@ -3,6 +3,7 @@
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://iclr.cc/virtual/2026/poster/10011229)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://xiaolousun.github.io/AutoFly/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2602.09657)
+[![ModelScope Dataset](https://img.shields.io/badge/ModelScope-Dataset-624aff)](https://www.modelscope.cn/datasets/jacksun001/autofly_dataset_tfds)
 [![Code](https://img.shields.io/badge/Code-Staged%20Release-orange)](#release-plan)
 
 
@@ -15,6 +16,10 @@ AutoFly takes RGB observations, concise natural-language instructions as input, 
 <p align="center">
   <img src="assets/intro.jpg" width="95%" alt="AutoFly overview">
 </p>
+
+## 📢 News
+
+- **[2026.09.08]** 🚀 Our dataset is now open-sourced on ModelScope: [`jacksun001/autofly_dataset_tfds`](https://www.modelscope.cn/datasets/jacksun001/autofly_dataset_tfds)! The training, testing, and deployment code are being actively prepared and will be released soon. Stay tuned!
 
 ## Release Status
 
@@ -108,7 +113,7 @@ Dataset statistics reported in the paper:
 | Image-language-action triplets | 2.5M+ |
 | Simulated scenes | 12 |
 
-The dataset release instructions, file format, and preprocessing scripts will be added during **Step 2**.
+The dataset is now available on ModelScope: [`jacksun001/autofly_dataset_tfds`](https://www.modelscope.cn/datasets/jacksun001/autofly_dataset_tfds). Detailed data loading instructions, file format, and preprocessing scripts will be added during **Step 2**.
 
 ## Training
 
